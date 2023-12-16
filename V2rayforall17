@@ -42,3 +42,13 @@ vless://21a9500f-4e7a-40c6-bd9b-5b910baf1b68@All.SHHPROXY.monster:443?mode=multi
 vless://0d7d6b25-2b0a-4e77-86dd-5e8f9ea190c7@VPN-MIKEYmci011.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=V2ray.VPN-MIKEY.cfd#@meli_proxyy
 
 vless://8db002dd-97d5-4c53-b87b-6dbd9680969a@VPN-MIKEYmci011.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=V2ray.VPN-MIKEY.cfd#@meli_proxyy
+
+vless://fb0f0855-b7d0-4b67-bf65-3c921f4ce725@joinbe.vmessorg.vmessorg.shop:80?encryption=none&security=none&type=ws&host=join__bede_vmessorg.vmessorg.shop&path=%2F#@meli_proxyy
+
+vless://fb0f0855-b7d0-4b67-bf65-3c921f4ce725@vmessorg.bia.tosh.vmessorg.shop:80?encryption=none&security=none&type=ws&host=join__bede_vmessorg.vmessorg.shop&path=%2F#@meli_proxyy
+
+vless://fb0f0855-b7d0-4b67-bf65-3c921f4ce725@vmessorg.bia.to.vmessorg.shop:80?encryption=none&security=none&type=ws&host=join__bede_vmessorg.vmessorg.shop&path=%2F#@meli_proxyy
+
+vless://fb0f0855-b7d0-4b67-bf65-3c921f4ce725@bia_to_vmessorg.vmessorg.shop:80?encryption=none&security=none&type=ws&host=join__bede_vmessorg.vmessorg.shop&path=%2F#@meli_proxyy
+
+vless://fb0f0855-b7d0-4b67-bf65-3c921f4ce725@vmessorg.join.sho.vmessorg.shop:80?encryption=none&security=none&type=ws&host=join__bede_vmessorg.vmessorg.shop&path=%2F#@meli_proxyy
