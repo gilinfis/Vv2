@@ -24,3 +24,9 @@ vless://abfbf7f4-c81c-49b5-9472-d0742f9ca4f4@V2ray.motorcycles:2087?path=%2F&sec
 همه ی اوپراتور ها
 
 vless://39b43981-7349-41a5-9613-71012cf41404@All.SHHPROXY.monster:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=FreeV2rayng.SHHPROXY.motorcycles#@meli_proxyy
+
+همه اپراتورا
+
+vless://70710054-ed6c-4161-a385-d0dff947350b@V2.VPN-MIKEY.cfd:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=V2ray.VPN-MIKEY.cfd#@meli_proxyy
+
+vless://c8bd3f94-d4cc-4ae2-943c-f552731998bd@V2.VPN-MIKEY.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=V2ray.VPN-MIKEY.cfd#@meli_proxyy
