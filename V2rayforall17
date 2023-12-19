@@ -30,3 +30,5 @@ vless://39b43981-7349-41a5-9613-71012cf41404@All.SHHPROXY.monster:443?mode=multi
 vless://70710054-ed6c-4161-a385-d0dff947350b@V2.VPN-MIKEY.cfd:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=V2ray.VPN-MIKEY.cfd#@meli_proxyy
 
 vless://c8bd3f94-d4cc-4ae2-943c-f552731998bd@V2.VPN-MIKEY.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=V2ray.VPN-MIKEY.cfd#@meli_proxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRXJ6aFVVRkx6TjNxUjA2VlBQZXNB@38.180.99.183:1165#%F0%9F%87%B3%F0%9F%87%B1%40oneclickvpnkeys
