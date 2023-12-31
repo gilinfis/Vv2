@@ -5,3 +5,6 @@ vless://c596c754-8313-4d6b-80fb-f42233814705@all.vpncustomize.cam:443?mode=multi
 vless://c596c754-8313-4d6b-80fb-f42233814705@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#Join+%40V2rayNGn
 
 vless://c596c754-8313-4d6b-80fb-f42233814705@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=High-speedV2ray.VPNCUSTOMIZE.online&type=ws#Join+%40V2rayNGn
+
+
+vless://a3b04064-8275-4c5d-8bec-db63bd4814f9@cdnjs.com:8080?path=%2F&security=none&encryption=none&host=ws.sourceforge.fun&type=ws#@meli_proxyy
