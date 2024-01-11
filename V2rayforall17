@@ -1,3 +1,5 @@
+
+vless://3970c2bb-41be-4f9e-a353-0323ef056ee7@discord.gg:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=http.customize.monster&type=ws#
 vless://9ab3fa2d-9cf2-4edf-a535-a4e879cf7ddc@discord.gg:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=&sni=TestForV2ray.vpncustomize.com#Join+%40V2rayNGn
 
 vless://b9153157-f08b-488a-8e84-dfe7c7b0ad03@discord.gg:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=TestForV2ray1.vpncustomize.com#Join+%40V2rayNGn
