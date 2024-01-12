@@ -1,60 +1,24 @@
+vless://---VPNCUSTOMIZE---@128.140.65.160:443?security=reality&encryption=none&pbk=8hrG5vdwXHrC1qWIQuDUNXgQ1jENJuZdLtfJDvfsDFA&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mrtax.site&sid=aa875d0c#Join+%40V2rayNGn
 
-vmess://eyJhZGQiOiI5NC4xMzAuMTY4LjE3NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwZDM3NjZlNS0zYTYxLTRhOGItYmYzNC03ZTQ4YmVhYjJlODgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUyMjAzIiwicHMiOiLwn5q3MUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://fa86205c-4394-4825-9b16-a41d1ae86dc4@all.vpncustomize.cam:2095/?type=ws&encryption=none&host=p1.virankade.site&path=%2F#%F0%9F%9A%B78%40oneclickvpnkeys
-vless://9bd5517c-047b-4655-b440-9ca1e9882e94@all.vpncustomize.cam:2052/?type=ws&encryption=none&host=p1.matzone.site&path=%2F#%F0%9F%9A%B75%40oneclickvpnkeys
-vless://50b620ce-a1dc-4221-ba23-b21e0d6d1337@all.vpncustomize.cam:2086/?type=ws&encryption=none&host=p2.matzone.site&path=%2F#%F0%9F%9A%B79%40oneclickvpnkeys
-vless://58d9858e-36f3-4bbf-bf36-7d4ce83dbb59@cdnjs.com:2086/?type=ws&encryption=none&host=p3.abrarvan.xyz&path=%2F#%F0%9F%9A%B72%40oneclickvpnkeys
-vless://24c1da5b-929a-4135-8a53-c573a8056a49@156.253.5.152:23912/?type=tcp&encryption=none#%F0%9F%9A%B73%40oneclickvpnkeys
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443/?type=ws&encryption=none&host=lmn37.sbs&path=%2Ffflsws&security=tls&sni=lmn37.sbs#%F0%9F%9A%B710%40oneclickvpnkeys
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@185.109.21.24:443/?type=ws&encryption=none&host=lmn37.sbs&path=%2Ffflsws&security=tls&sni=lmn37.sbs#%F0%9F%9A%B76%40oneclickvpnkeys
-vless://9dc892b4-7745-4733-bcc5-9af0e2ca71e0@all.vpncustomize.cam:8880/?type=ws&encryption=none&host=fl.virankade.site&path=%2F#%F0%9F%9A%B74%40oneclickvpnkeys
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#%F0%9F%9A%B711%40oneclickvpnkeys
-vless://633fb319-8b60-4bd6-94e2-ea94f16edd9f@cdnjs.com:8080/?type=ws&encryption=none&host=p3.virankade.site&path=%2F#%F0%9F%9A%B77%40oneclickvpnkeys
-vless://6d72266a-7164-42c6-a058-2718f5072f62@film.oceanoflight.top:40241/?encryption=none&host=aionet.ir&type=tcp&headerType=http#%F0%9F%9A%B712%40oneclickvpnkeys
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087/?type=ws&encryption=none&path=%2F&security=tls&sni=turkws.configforvpn.fun#%F0%9F%9A%B713%40oneclickvpnkeys
-vless://7bd5c898-5739-4442-b934-97b193b65e1f@185.167.98.190:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn3.gsmvp.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%9A%B714%40oneclickvpnkeys
-vless://a6bc744d-01e3-49d6-956b-b2fd8d712a6a@mrz3.gsmvp.com:8443/?type=tcp&encryption=none&sni=cdn.discordapp.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%9A%B715%40oneclickvpnkeys
+vless://42e6163b-3c73-4b02-8642-18c5b79ca1ce@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=grmV2ray.subscribeV2.sbs#Join+%40V2rayNGn
 
-
-
-vless://3970c2bb-41be-4f9e-a353-0323ef056ee7@discord.gg:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=http.customize.monster&type=ws#
-vless://9ab3fa2d-9cf2-4edf-a535-a4e879cf7ddc@discord.gg:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=&sni=TestForV2ray.vpncustomize.com#Join+%40V2rayNGn
-
-vless://b9153157-f08b-488a-8e84-dfe7c7b0ad03@discord.gg:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=TestForV2ray1.vpncustomize.com#Join+%40V2rayNGn
-
-vless://10449eca-0e56-4a75-9829-806952ec00c7@discord.gg:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=TestForV2ray12.vpncustomize.com#Join+%40V2rayNGn
-
-➿➿➿🏳➿➿➿
-Type : WS & gRPC : location🇩🇪🇫🇮🇺🇸
-
-فعال تا فردا ساعت ۱۶ 
-
-مناسب برای شبکه های 🛜🛜🛜🛜
-
-Germany 🇩🇪
-vless://9ab3fa2d-9cf2-4edf-a535-a4e879cf7ddc@discord.gg:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=&sni=TestForV2ray.vpncustomize.com#test 🇩🇪
-
-Finland 🇫🇮
-vless://b9153157-f08b-488a-8e84-dfe7c7b0ad03@discord.gg:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=TestForV2ray1.vpncustomize.com#test 🇫🇮
-
-United States 🇺🇸
-vless://10449eca-0e56-4a75-9829-806952ec00c7@discord.gg:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=TestForV2ray12.vpncustomize.com#test 🇺🇸
-
-برنامه مورد نیاز 🤖💻🍏
-تنظیمات کاهش پینگ و افزایش سرعت ❤️
-
-تا وقتی که تایم داره سرور فعاله و شاید بهتون پینگ نده ولی وصله به ارور سرور توجه نکنید‼️
-
-Channel 🌟 @VPNCUSTOMIZE
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443/?type=ws&encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&fp=chrome#%F0%9F%9A%B1n%40oneclickvpnkeys
-vless://e2c1bd38-554e-4b1e-ac41-8883df4184d1@5.42.86.225:6272/?type=grpc&encryption=none&sni=magicbus.ca&fp=chrome&security=reality&pbk=1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8&sid=76753364#%F0%9F%9A%B1v%40oneclickvpnkeys
-vmess://eyJhZGQiOiJtZmZkYWxscm9hZC45OTY2OTkudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtZnh3LWhrdjYtMjAyNDAxMDEubWZjbWkudG9wIiwiaWQiOiIxN2E1NmVmYS0xMTE0LTRiYzUtOGMzOS1kZWVmM2JjMDJlMzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMjAyNDAxMDEiLCJwb3J0IjoiMjA4NiIsInBzIjoi8J+asXdAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYmJmM2FjYi1iZmFhLTQ1NDUtOWQyYy1kY2FjMzMyYjcxYWM@ty12.twty.dynu.net:4303#%F0%9F%9A%B1s%40oneclickvpnkeys
-vmess://eyJhZGQiOiJuYjI0Lm50YnEuZHludS5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmJiZjNhY2ItYmZhYS00NTQ1LTlkMmMtZGNhYzMzMmI3MWFjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDQzIiwicHMiOiLwn5qxcEBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYmJmM2FjYi1iZmFhLTQ1NDUtOWQyYy1kY2FjMzMyYjcxYWM@ty11.twty.dynu.net:2203#%F0%9F%9A%B1r%40oneclickvpnkeys
-vmess://eyJhZGQiOiJjMTIudHd0Yy5keW51Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiYmJmM2FjYi1iZmFhLTQ1NDUtOWQyYy1kY2FjMzMyYjcxYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjYxMjIiLCJwcyI6IvCfmrFvQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYmJmM2FjYi1iZmFhLTQ1NDUtOWQyYy1kY2FjMzMyYjcxYWM@b36.ntbq.dynu.net:3877#%F0%9F%9A%B1t%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYmJmM2FjYi1iZmFhLTQ1NDUtOWQyYy1kY2FjMzMyYjcxYWM@b11.ntbq.dynu.net:6543#%F0%9F%9A%B1m%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc0ODE0ZS1kNzk4LTRiNTgtYjg3Mi0yMjA4NDI2NDlkZDQ@kr.colacloud.site:20352#%F0%9F%9A%B1u%40oneclickvpnkeys
-vmess://eyJhZGQiOiJ2Mi45OTY2OTkudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnZy1qcC12Mi0xLmJ6cWNtaS50b3AiLCJpZCI6IjE3YTU2ZWZhLTExMTQtNGJjNS04YzM5LWRlZWYzYmMwMmUzMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4NiIsInBzIjoi8J+asXlAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://7e560d63-f13f-4525-b431-8f3ded8b0925@mask47iranceli.api-tel.xyz:42119/?type=ws&encryption=none&path=%2F#%F0%9F%93%B53%40oneclickvpnkeys
+vless://e561f86f-b8a3-4f35-c8e2-b8536745aa13@128.140.80.17:443/?type=tcp&encryption=none#%F0%9F%93%B52%40oneclickvpnkeys
+vless://fe1f0a9b-586f-47fa-d2f0-741109e5eeba@tgju.org:8880/?type=ws&encryption=none&host=z6nxt-_-og6ft_-_avtcvu.V2N.Website&path=FREE%3Fed%3D2048#%F0%9F%93%B57%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMlJtTVFtRURkRk5KbnE2alN4RDJP@80.71.157.52:7710#%F0%9F%93%B54%40oneclickvpnkeys
+vmess://eyJhZGQiOiIxMjguMTk5LjUzLjg3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImJhYjk2YmMwLTBkMWQtNDFmYi05YzVhLTEwZGU2MjRhMDYxNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI2MzQ5IiwicHMiOiLwn5O1MUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWQmh6THQxemJzdDFKeFJJZGtObTVV@45.159.249.187:41911#%F0%9F%93%B55%40oneclickvpnkeys
+vless://2e11dc50-5d2b-43ea-9a76-033751714977@aruu1.haztlayati.xyz:2096/?type=grpc&encryption=none&security=tls&sni=aruu1.haztlayati.xyz#%F0%9F%93%B515%40oneclickvpnkeys
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443/?type=ws&encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org#%F0%9F%93%B517%40oneclickvpnkeys
+vless://0c51f885-7ef1-4df2-a1ca-82ea2df5e6a8@test.ez0535.sbs:8443/?type=grpc&encryption=none&security=tls&sni=server5.mahsa0535.sbs#%F0%9F%93%B58%40oneclickvpnkeys
+vless://SvnTeam@mtn.vpnprosec.com:443/?type=grpc&encryption=none&security=tls&sni=FfV2rayK.svnteamfree.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox#%F0%9F%93%B518%40oneclickvpnkeys
+vless://13f021a8-af20-43b6-b6a7-c09637ee8a24@zula.ir:443/?type=grpc&encryption=none&serviceName=me&security=tls&sni=fin6.melobigg.site&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%93%B510%40oneclickvpnkeys
+vless://13f021a8-af20-43b6-b6a7-c09637ee8a24@speedtest.org:443/?type=grpc&encryption=none&serviceName=me&security=tls&sni=fin6.melobigg.site&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%93%B511%40oneclickvpnkeys
+vless://18d0c2b1-7f35-4954-bb74-b86d3a0e66c5@5.42.86.225:2058/?type=grpc&encryption=none&sni=www.who.int&fp=chrome&security=reality&pbk=1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8&sid=76753364#%F0%9F%93%B519%40oneclickvpnkeys
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada21.npbjn.com:443/?type=ws&encryption=none&path=users%3Fed%3D2048&security=tls&alpn=http%2F1.1#%F0%9F%93%B56%40oneclickvpnkeys
+vless://e2c1bd38-554e-4b1e-ac41-8883df4184d1@5.42.86.225:6272/?type=grpc&encryption=none&sni=magicbus.ca&fp=chrome&security=reality&pbk=1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8&sid=76753364#%F0%9F%93%B516%40oneclickvpnkeys
+vmess://eyJhZGQiOiIxNDYuMTkwLjExMS4xMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy54Ym94LmNvbSIsImlkIjoiOTdlOWM0MmEtNjlmZS00NGVmLTkxN2MtODBkOTQxZDExMTRhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI1NDY0MiIsInBzIjoi8J+TtTIwQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://f2cc5221-acc1-4da5-b4f0-dee53b40ebec@103.110.127.85:8443/?type=tcp&encryption=none&security=tls&sni=cric.yourdisha.in#%F0%9F%93%B59%40oneclickvpnkeys
+vless://45d1d34d-b089-418d-8cd2-223492be539e@5.42.86.225:2053/?type=grpc&encryption=none&sni=pantercon.net&fp=chrome&security=reality&pbk=1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8&sid=76753364#%F0%9F%93%B514%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzZkYjcxNi1jNmQwLTRiYzItYmQ3Ni02OWUyNzgyMTUxMjQ@b11.ntbq.dynu.net:6543#%F0%9F%93%B512%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzZkYjcxNi1jNmQwLTRiYzItYmQ3Ni02OWUyNzgyMTUxMjQ@b36.ntbq.dynu.net:3877#%F0%9F%93%B513%40oneclickvpnkeys
