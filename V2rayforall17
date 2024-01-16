@@ -1,3 +1,9 @@
+vless://--VPNCUSTOMIZE-VPNCUSTOMIZE--@tel.VPNCUSTOMIZE.cam:2096?path=%2F&security=tls&encryption=none&host=irancell--key-file-V2ray.vpncustomize.com&fp=chrome&type=ws&sni=irancell--key-file-V2ray.vpncustomize.com#Join+%40V2rayNGn
+
+vless://0127ded3-9de6-46c8-8e03-297a3c619ccf@tel.VPNCUSTOMIZE.cam:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=irancell-key-file-V2ray.vpncustomize.com#Join+%40V2rayNGn
+
+vless://--VPNCUSTOMIZE-VPNCUSTOMIZE--@tel.VPNCUSTOMIZE.cam:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=new-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#Join+%40V2rayNGn
+
 vless://78c459e5-8ec7-4753-a014-3707fb66d1d7@tel.VPNCUSTOMIZE.cam:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=irancell--key-file-V2ray.vpncustomize.com#Join+%40V2rayNGn
 
 vless://78c459e5-8ec7-4753-a014-3707fb66d1d7@tel.VPNCUSTOMIZE.cam:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=irancell-key-file-V2ray.vpncustomize.com#Join+%40V2rayNGn
