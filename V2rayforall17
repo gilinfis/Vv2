@@ -1,75 +1,7 @@
+vless://f5eb20d7-1adb-4405-a910-3873ec9a43ac@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2hel.LIGHTNING6.IR#Join+%40V2rayNGn
 
-vmess://eyJhZGQiOiJpci5tYW5kZWxhLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYW50ZW4uaXIiLCJpZCI6IjlhODkzOGQyLTk5NjctNGFiMy1hM2Y2LWRiNjVjOGY5YzQwNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NDM2IiwicHMiOiJOZXcgTWV0aG9kIElSYW5WMlJheU5HIPCfko4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://56deba6a-3e4f-4e99-ab49-431ece92da00@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=%2F%40LIGHTNING6&security=none&encryption=none&host=LiV2rayz.%E6%B6%85%E7%94%B7%E9%81%8E%E6%B6%85%E4%BA%8B.website&type=ws#Join+%40V2rayNGn
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.16.229.153:80/?type=ws&encryption=none&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#%E2%AC%85%EF%B8%8F22%40oneclickvpnkeys
-vless://2476f24f-db2c-4079-980e-3033db5561f3@v2.vpn-mikey.cfd:8443/?type=grpc&encryption=none&serviceName=%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=tls&sni=V2ray.VPN-MIKEY.cfd#%E2%AC%85%EF%B8%8F5%40oneclickvpnkeys
-vless://07d5e1d9-b4b2-4ff2-d8ef-abcdce5f419e@23.88.96.178:8443/?type=tcp&encryption=none&security=tls&sni=client-proo.mamaseed.buzz&fp=chrome#%E2%AC%85%EF%B8%8F2%40oneclickvpnkeys
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443/?type=ws&encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org#%E2%AC%85%EF%B8%8F7%40oneclickvpnkeys
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.19.241.126:80/?type=ws&encryption=none&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed#%E2%AC%85%EF%B8%8F9%40oneclickvpnkeys
-vless://98d50790-31ec-47d5-b2ed-493fd21accc6@new-join-too.outline-vpn.cloud:2082/?type=ws&encryption=none&host=p1.abrarvan.xyz&path=%2F#%E2%AC%85%EF%B8%8F4%40oneclickvpnkeys
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443/?type=ws&encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org#%E2%AC%85%EF%B8%8F24%40oneclickvpnkeys
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443/?type=ws&encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org#%E2%AC%85%EF%B8%8F3%40oneclickvpnkeys
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80/?type=ws&encryption=none&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#%E2%AC%85%EF%B8%8F8%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTYzMmY0MC1jZjA0LTRhODEtOTc2ZC1lYTAzMzFmNDk4YmY@192.3.150.43:25679#%E2%AC%85%EF%B8%8F6%40oneclickvpnkeys
-vmess://eyJhZGQiOiJoazUuYW5zaC5jZmQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Inl3aGsxLmtjanMubWUiLCJpZCI6IjFmZWMwMmQxLWQ3NTAtNDI0Zi1hNTUyLTZlYjU3NzBjN2UyYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nZDMyNDV2ZDJTMzJjciIsInBvcnQiOiI1NjEyMCIsInBzIjoi4qyF77iPMjNAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6Inl3aGsxLmtjanMubWUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI0NS43Ny4yNDAuMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im0uem9vbS51cyIsImlkIjoiMGEyMzAyMTMtZWRmNy00NGMwLTk5MDAtMzZiYzc0MDRkMjA4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FsZXhkZXZpbGwiLCJwb3J0IjoiMTAwNjciLCJwcyI6IuKshe+4jzIxQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087/?type=ws&encryption=none&path=%2F&security=tls&sni=turkws.configforvpn.fun#%E2%AC%85%EF%B8%8F25%40oneclickvpnkeys
+vless://56deba6a-3e4f-4e99-ab49-431ece92da00@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=%2F%40LIGHTNING6&security=none&encryption=none&host=LiV2ray.%E6%B6%85%E7%94%B7%E9%81%8E%E6%B6%85%E4%BA%8B.website&type=ws#Join+%40V2rayNGn
 
-
-vless://84cdbd0c-e958-4a01-9954-4754bea3ebc7@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=hash-delhi-kills-alert.trycloudflare.com&fp=firefox&type=ws&sni=hash-delhi-kills-alert.trycloudflare.com#Coin+30+ID%28%40Outline_Vpn%29
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Coin+31+ID%28%40Outline_Vpn%29
-
-trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?path=%2F&security=tls&host=cdn13.cdn2cdn.com&fp=chrome&type=ws&sni=cdn13.cdn2cdn.com#Coin+32+ID%28%40Outline_Vpn%29
-
-vless://98d50790-31ec-47d5-b2ed-493fd21accc6@new-join-too.outline-vpn.cloud:2082?path=%2F&security=none&encryption=none&host=p1.abrarvan.xyz&type=ws#Coin+33+ID%28%40Outline_Vpn%29
-
-vless://cf15b202-d101-4831-9e0b-1d63e9311328@cdnjs.com:2052?path=%2F&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#Coin+34+ID%28%40Outline_Vpn%29
-
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=%2F&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#Coin+35+ID%28%40Outline_Vpn%29
-
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#Coin+36+ID%28%40Outline_Vpn%29
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Coin+37+ID%28%40Outline_Vpn%29
-
-vless://4618d8d1-79a9-48cb-886e-c6d74b5ffbd7@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=q.q.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#%F0%9F%87%A8%F0%9F%87%B7%40SATARVPN1%F0%9F%91%88Join+%7C+10
-
-🥇🎗دسترسی سریع به اینترنت 🎗
-
-✅سرور رایگانV2ray
-
-🏆 برای تمام اپراتورها
-
-✅ برای کپی کردن ضربه بزن👇👇
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-vless://7f09f313-b9fa-424d-f1cc-a77738ac49ae@66.filmotv.lol:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%40SATARVPN1%F0%9F%91%88Join+%7C+3
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-vless://4618d8d1-79a9-48cb-886e-c6d74b5ffbd7@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=q.q.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#%F0%9F%87%A8%F0%9F%87%B7%40SATARVPN1%F0%9F%91%88Join+%7C+10
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-vmess://eyJhZGQiOiIxMDQuMTguMjAyLjIwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYmlhLXRvLWNoYW5uZWwxLnVubGltaXRlZGRldi5xdWVzdCIsImlkIjoiYzc0NzE5ODAtNjc0Yi00Y2ZhLTg0NjEtMWU4NzdjY2JhNTRmIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9AQXJjaGl2ZV9BbmRyb2lkLUBBcmNoaXZlX0FuZHJvaWQiLCJwb3J0IjoiODA4MCIsInBzIjoi8J+HqPCfh6ZAU0FUQVJWUE4x8J+RiEpvaW4gfCAxNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-vless://60968315-97f0-4a31-8299-ec1ef57a8793@172.67.153.213:2087?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Sni20.Tlgram-Polproxy.space#%F0%9F%87%A8%F0%9F%87%A6%40SATARVPN1%F0%9F%91%88Join+%7C+35
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-vless://60968315-97f0-4a31-8299-ec1ef57a8793@172.67.153.213:2087?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Ajab.Moienmusic.space#%F0%9F%87%BA%F0%9F%87%B8%40SATARVPN1%F0%9F%91%88Join+%7C+32
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-vless://9e1f5664-43c7-468e-e949-3288ce12011b@104.31.16.84:2087?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Ajab.Moienmusic.space#%F0%9F%87%A8%F0%9F%87%A6%40SATARVPN1%F0%9F%91%88Join+%7C+31
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-vless://9739fdc1-b83e-4cd3-a393-8cd590564f6d@all.VPNCUSTOMIZE.cam:80?path=%2FNIM_VPN_ir&security=none&encryption=none&host=allgeus.cheetahmh45.shop&type=ws#%F0%9F%87%A8%F0%9F%87%B7%40SATARVPN1%F0%9F%91%88Join+%7C+1
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-vless://HinaVPN@check-host.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=------@HinaVPN--------------@HinaVPN--------------@HinaVPN--------------@HinaVPN--------------@HinaVPN--------------@HinaVPN--------------@HinaVPN--------------@HinaVPN--------------@HinaVPN--------------@HinaVPN-------------&sni=hina.a1b1c1.sbs#%F0%9F%87%BA%F0%9F%87%B8%40SATARVPN1%F0%9F%91%88Join+%7C+2
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-🎊لطفاً حمایت کنین از کانال 
-
-✅برای دوستان خود ارسال کنین 
-◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️◽️◾️
-❤️آموزش استفاده از پروتکل v2rayng(android)
-
-❤️آموزش استفاده از پروتکل V2box(iOS)
-
-❤️ری اکشن بزنین تا جدید بذارم دوباره❤️ حمایت نکنین دیگه مجبورم نذارم
-
-‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌📣 جهت اتصال دائمی و ارتقاء با آپدیت ها عضو کانال شوید
-
-🆔 @SATARVPN1  👈🏼 join
-
-🆔 @SATARVPN
+vless://456f7a49-8c6d-4096-8070-cf50a6ef178f@ra39fa.mygoodfriend.ir:2053?type=ws&path=%40RaFaV2ray&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&allowInsecure=1#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B9%D9%85%D9%88%D9%85%DB%8C-%F0%9F%87%A9%F0%9F%87%AA
