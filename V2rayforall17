@@ -1,3 +1,42 @@
+
+𝖵𝖯𝖭 | 𝖢𝖴𝖲𝖳𝖮𝖬𝖨𝖹𝖤, [2/15/24, 12:14 PM]
+[Posted by 索约斯哈]
+➿➿➿🏳➿➿➿
+Type : WS  : location 🇫🇷&🇬🇧
+
+فعال تا زمان نامشخص 
+حجم نامحدود 
+مناسب برای شبکه های 🛜🛜🛜 
+
+
+vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:2087?path=%2Fws-@VPNCUSTOMIZE-@VPNCUSTOMIZE&security=tls&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org&type=ws&sni=vpncustomize2V2ray.xn--4oq36ed28d.org#☁️~🇬🇧
+
+
+برنامه مورد نیاز 🤖💻🍏
+تنظیمات کاهش پینگ و افزایش سرعت ❤️
+
+تا وقتی که تایم داره سرور فعاله و شاید بهتون پینگ نده ولی وصله به ارور سرور توجه نکنید‼️
+
+Channel 🌟 @VPNCUSTOMIZE
+
+𝖵𝖯𝖭 | 𝖢𝖴𝖲𝖳𝖮𝖬𝖨𝖹𝖤, [2/15/24, 12:15 PM]
+[Posted by 索约斯哈]
+➿➿➿🏳➿➿➿
+Type : WS  : location 🇫🇷
+
+فعال تا زمان نامشخص 
+حجم نامحدود 
+مناسب برای تمامی اپراتورا 
+
+{"log":{"access":"","error":"","loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"listen":"127.0.0.1","protocol":"socks","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}},{"tag":"http","port":10809,"listen":"127.0.0.1","protocol":"http","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"tel.VPNCUSTOMIZE.cam","port":8443,"users":[{"id":"0af4bc1c-8a5c-413c-8a95-f34cf947850a","alterId":0,"email":"t@t.tt","security":"auto","encryption":"none","flow":""}]}]},"streamSettings":{"network":"ws","security":"tls","tlsSettings":{"allowInsecure":false,"serverName":"iR.i23.sTOre","alpn":["h2","http/1.1"],"fingerprint":"chrome","show":false},"wsSettings":{"path":"/","headers":{"Host":"iR.i23.sTOre"}},"sockopt":{"dialerProxy":"fragment","tcpKeepAliveIdle":100,"mark":255,"tcpNoDelay":true}},"mux":{"enabled": true,"concurrency": 8,"xudpConcurrency": 8,"xudpProxyUDP443": "reject"}},{"tag":"fragment","protocol":"freedom","settings":{"domainStrategy":"AsIs","fragment":{"packets":"tlshello","length":"10-20","interval":"10-20"}},"streamSettings":{"sockopt":{"tcpNoDelay":true,"tcpKeepAliveIdle":100}}},{"tag":"direct","protocol":"freedom","settings":{}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}}}],"routing":{"domainStrategy":"AsIs","rules":[{"type":"field","inboundTag":["api"],"outboundTag":"api","enabled":true},{"id":"5627785659655799759","type":"field","port":"0-65535","outboundTag":"proxy","enabled":true}]}}
+
+برنامه مورد نیاز 🤖💻🍏
+تنظیمات کاهش پینگ و افزایش سرعت ❤️
+
+تا وقتی که تایم داره سرور فعاله و شاید بهتون پینگ نده ولی وصله به ارور سرور توجه نکنید‼️
+
+Channel 🌟 @VPNCUSTOMIZE
+
 vless://1827ea4f-31cd-4ead-8d8a-3845533e385c@irsrv6.mandela.top:28479?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#IRanV2RayNG+200GB+%F0%9F%87%AB%F0%9F%87%B7
 
 OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑, [2/15/24, 11:03 AM]
