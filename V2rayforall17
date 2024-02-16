@@ -1,204 +1,35 @@
+6️⃣
 
-𝖵𝖯𝖭 | 𝖢𝖴𝖲𝖳𝖮𝖬𝖨𝖹𝖤, [2/15/24, 12:14 PM]
-[Posted by 索约斯哈]
-➿➿➿🏳➿➿➿
-Type : WS  : location 🇫🇷&🇬🇧
-
-فعال تا زمان نامشخص 
-حجم نامحدود 
-مناسب برای شبکه های 🛜🛜🛜 
-
-
-vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:2087?path=%2Fws-@VPNCUSTOMIZE-@VPNCUSTOMIZE&security=tls&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org&type=ws&sni=vpncustomize2V2ray.xn--4oq36ed28d.org#☁️~🇬🇧
-
-
-برنامه مورد نیاز 🤖💻🍏
-تنظیمات کاهش پینگ و افزایش سرعت ❤️
-
-تا وقتی که تایم داره سرور فعاله و شاید بهتون پینگ نده ولی وصله به ارور سرور توجه نکنید‼️
-
-Channel 🌟 @VPNCUSTOMIZE
-
-𝖵𝖯𝖭 | 𝖢𝖴𝖲𝖳𝖮𝖬𝖨𝖹𝖤, [2/15/24, 12:15 PM]
-[Posted by 索约斯哈]
-➿➿➿🏳➿➿➿
-Type : WS  : location 🇫🇷
-
-فعال تا زمان نامشخص 
-حجم نامحدود 
-مناسب برای تمامی اپراتورا 
-
-{"log":{"access":"","error":"","loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"listen":"127.0.0.1","protocol":"socks","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}},{"tag":"http","port":10809,"listen":"127.0.0.1","protocol":"http","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"tel.VPNCUSTOMIZE.cam","port":8443,"users":[{"id":"0af4bc1c-8a5c-413c-8a95-f34cf947850a","alterId":0,"email":"t@t.tt","security":"auto","encryption":"none","flow":""}]}]},"streamSettings":{"network":"ws","security":"tls","tlsSettings":{"allowInsecure":false,"serverName":"iR.i23.sTOre","alpn":["h2","http/1.1"],"fingerprint":"chrome","show":false},"wsSettings":{"path":"/","headers":{"Host":"iR.i23.sTOre"}},"sockopt":{"dialerProxy":"fragment","tcpKeepAliveIdle":100,"mark":255,"tcpNoDelay":true}},"mux":{"enabled": true,"concurrency": 8,"xudpConcurrency": 8,"xudpProxyUDP443": "reject"}},{"tag":"fragment","protocol":"freedom","settings":{"domainStrategy":"AsIs","fragment":{"packets":"tlshello","length":"10-20","interval":"10-20"}},"streamSettings":{"sockopt":{"tcpNoDelay":true,"tcpKeepAliveIdle":100}}},{"tag":"direct","protocol":"freedom","settings":{}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}}}],"routing":{"domainStrategy":"AsIs","rules":[{"type":"field","inboundTag":["api"],"outboundTag":"api","enabled":true},{"id":"5627785659655799759","type":"field","port":"0-65535","outboundTag":"proxy","enabled":true}]}}
-
-برنامه مورد نیاز 🤖💻🍏
-تنظیمات کاهش پینگ و افزایش سرعت ❤️
-
-تا وقتی که تایم داره سرور فعاله و شاید بهتون پینگ نده ولی وصله به ارور سرور توجه نکنید‼️
-
-Channel 🌟 @VPNCUSTOMIZE
-
-vless://1827ea4f-31cd-4ead-8d8a-3845533e385c@irsrv6.mandela.top:28479?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#IRanV2RayNG+200GB+%F0%9F%87%AB%F0%9F%87%B7
-
-OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑, [2/15/24, 11:03 AM]
-[Posted by @vpn_world_bot]
-🌍
-
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#%F0%9F%92%988%40oneclickvpnkeys
-vmess://eyJhZGQiOiJpcmFuY2VsbC5vdXRsaW5lLXZwbi5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiLwn5KWM0BvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.27.5.173:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#%F0%9F%92%8D4%40oneclickvpnkeys
-vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tunn.free.hr&type=ws#%F0%9F%92%9F24%40oneclickvpnkeys
-vless://7dcc7cf3-b895-40b0-9ecc-7ab120b416b0@5.181.23.63:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%9F1%40oneclickvpnkeys
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#%E2%9D%A416%40oneclickvpnkeys
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.17.153.223:80?path=Path%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#%F0%9F%92%986%40oneclickvpnkeys
-vless://3e9910cf-26fb-4b8f-bc8e-5a1fd221b1da@kohnavard700---join.outline-vpn.cloud:80?path=%2Fgsmxserver&security=none&encryption=none&host=ws2.gsmvx.com&type=ws#%F0%9F%92%9610%40oneclickvpnkeys
-vless://864b5e54-ef9c-48ee-96d7-875567503d29@www.speedtest.net:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=blogs.nazirman.cfd#%F0%9F%92%9F4%40oneclickvpnkeys
-vless://fc6ef02f-aaca-477d-8609-c7c1537f8a6f@95.217.222.125:443?mode=gun&security=reality&encryption=none&pbk=uvwIRRB8ZUmTdcXmRkonO6Dh23b0RDa2iPRgWQUMFBw&fp=chrome&type=grpc&serviceName=&sni=s13.norbertpro.site&sid=7e4444ac#%F0%9F%92%9F2%40oneclickvpnkeys
-vmess://eyJhZGQiOiJ3YXJwLXN1Yi5wYWdlcy5kZXYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDYxOTViNWItMzgxNS00YTA3LTk2ZjctNDdlZWZiYjFiMTQzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3Vybnhld3p2aC5zaXRlOjQ0My9rd2htdndzIiwicG9ydCI6IjIwNTMiLCJwcyI6IvCfkp8xMEBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.118:443?path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev#%F0%9F%92%BB22%40oneclickvpnkeys
-vmess://eyJhZGQiOiI5NC4xMzEuMTAuMTM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUyMDIxYzkxLTZlMjktNDlkNi05NjQxLTE0YThmMjYwMGUwNSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiIyMDk1IiwicHMiOiLwn5KfMTJAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI5NC4xMzEuOC4zMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1N2UzN2E3NC1iYWRjLTRiNzEtODdjNy01YjllMjA4NzliNTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjA4MiIsInBzIjoi8J+SnzdAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMjAuMjMxLjMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJteTEudG9vdGVycy5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IvCfkp8xM0BvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxODguMTE0Ljk2LjExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhLnByYXB0NS5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IvCfkrsxMUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppenF4ZWNzc3dzOXpzZjBNUnp5RE4x@51.142.159.50:30291#%F0%9F%93%A4b%40oneclickvpnkeys
+vless://dbff34ab-eb96-441d-9f07-30f0a7776037@49.13.69.46:56078/?type=tcp&encryption=none&sni=canva.com&fp=chrome&security=reality&pbk=SUCJ94wKPUdfkBJw8VnANql6kevueb6EyA71C3AfKFs&sid=bf44fc2c#%F0%9F%93%A4d%40oneclickvpnkeys
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#%F0%9F%93%A4e%40oneclickvpnkeys
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@163.172.222.168:5001#%F0%9F%93%A4a%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dlA2bEJFaW0wUHFpeWp6ZmVLMlpv@109.107.189.5:53064#%F0%9F%93%A4c%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUzZNSTRLcFVZcURQQVRmOFkweEFR@[2a12:5940:4269::2]:10343#%F0%9F%93%A4f%40oneclickvpnkeys
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#%F0%9F%93%A4g%40oneclickvpnkeys
 
 ➖➖➖➖➖➖➖
 ✅@oneclickvpnkeys
 
-OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑, [2/15/24, 11:12 AM]
-[Posted by @vpn_world_bot]
-⭕
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOcVFCbzluQVdUaDNjMkpUTU8waUJ1SlJGNk85QjZCRmR3blZ3ejlVdWlZPQ@16.171.140.5:8080#%E2%AD%951%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVKzVaMDBoUzlGcEVnREdDYVoxUzRBU1U5b3lIV0VIUzkwS3FuTjJlY253PQ@16.171.135.153:8080#%E2%AD%952%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cUdwVWZia3p6TUJVNnhnaDF0TGwvay9jT1hVb2U0OTUzZ0ZweDlmZkkwPQ@16.171.166.213:8080#%E2%AD%953%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxaUwwd0JCNC9wSGFxd3p1THllMFFWekFJbTRLSDNYMml1NUNtVEEwYU80PQ@16.171.150.249:8080#%E2%AD%954%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdW1sa0tqODV2eXI0NjBScU1CRGNYUVRHYjBtTmJFR1l1OFFpWWhOcW9nPQ@13.60.22.135:8080#%E2%AD%955%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2dHdXcVVLeTBvMC9Qamdpd1k1cWJYUGFielFGWUhlTFNlckxVMFF1cm5rPQ@16.170.226.215:8080#%E2%AD%956%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2cVFVdkd2aG5PdlFqZzJ0VWxiV3FyM01nbUNFY2J2N21WemtueXVpeE9FPQ@13.53.41.24:8080#%E2%AD%957%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVzdwcGVRMjdUOTZDT3NwR0ZHNVJQdENGWEhZZENEVFZTZWFsa3JXblhnPQ@51.20.193.31:8080#%E2%AD%958%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OUk5NlV4SndkM0YwQ0hJYnpMcnBYWXJPRTVibW9sVUEwZ1BORnkwWWFRPQ@13.48.43.63:8080#%E2%AD%959%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZM1M2dG5WRWR0eVBDUUlqUUp1ejVGZ2U5Y1BKSnRDOHgwZ29HcXBpM1dRPQ@16.171.2.188:8080#%E2%AD%9510%40oneclickvpnkeys
-
-➖➖➖➖➖➖➖
-✅@oneclickvpnkeys
-
-
-Vless | Vmess | Trojan, [2/15/24, 12:17 PM]
-✅ NEW VLESS Server ✅
-Location : Germany 🇩🇪
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.185.231.175:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
-🌐 @VlessConfig
-
-Vless | Vmess | Trojan, [2/15/24, 1:00 PM]
-✅ NEW VLESS Server ✅
-Location : France 🇫🇷
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.56.244:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
-🌐 @VlessConfig
-
-V2ray | Vmess | Trojan | Vless, [2/15/24, 12:17 PM]
-TROJAN 🇩🇪 (S103) TCP
-trojan://telegram-id-privatevpns@3.73.155.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
- 📚آموزش استفاده از سرورها
-🌐 @PrivateVPNs
-
-V2ray | Vmess | Trojan | Vless, [2/15/24, 1:00 PM]
-TROJAN 🇩🇪 (S104) TCP
-trojan://telegram-id-privatevpns@3.76.136.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
- 📚آموزش استفاده از سرورها
-🌐 @PrivateVPNs
-
-
-
-کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/15/24, 12:02 PM]
-همه اپراتورا به جز همراه اول
-vless://849ead74-8e11-4faf-aeb8-d70704c4710a@shhproxy.varzesh3-cnd.site:2087?path=%2F&security=tls&encryption=none&host=SHHPROXY.xn--69-pv2cl2k5x3fipr.org&type=ws&sni=SHHPROXY.xn--69-pv2cl2k5x3fipr.org#@meli_proxyy
-
-کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/15/24, 12:14 PM]
-تمام نت ها (جز همراه اول)
-
-vless://---DIGIV2RAY---@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Digiv2ray , @Digiv2ray&sni=ConnectionDigiV2ray.radiotehran.org#@meli_proxyy
-
-vless://--DIGIV2RAY--@190.93.247.155:2087?path=%2FDigiV%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=ConnectionDigiV2ray.radiotehran.org&fp=chrome&type=ws&sni=ConnectionDigiV2ray.radiotehran.org#@meli_proxyy
-
-فعال‌ تا فردا ساعت 12
-
-کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/15/24, 12:14 PM]
-همه اپراتورا به جز همراه
-vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:2087?path=%2Fws-@VPNCUSTOMIZE-@VPNCUSTOMIZE&security=tls&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org&type=ws&sni=vpncustomize2V2ray.xn--4oq36ed28d.org#@meli_proxyy
-
-کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/15/24, 12:17 PM]
-json
-{"log":{"access":"","error":"","loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"listen":"127.0.0.1","protocol":"socks","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}},{"tag":"http","port":10809,"listen":"127.0.0.1","protocol":"http","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"tel.VPNCUSTOMIZE.cam","port":8443,"users":[{"id":"0af4bc1c-8a5c-413c-8a95-f34cf947850a","alterId":0,"email":"t@t.tt","security":"auto","encryption":"none","flow":""}]}]},"streamSettings":{"network":"ws","security":"tls","tlsSettings":{"allowInsecure":false,"serverName":"iR.i23.sTOre","alpn":["h2","http/1.1"],"fingerprint":"chrome","show":false},"wsSettings":{"path":"/","headers":{"Host":"iR.i23.sTOre"}},"sockopt":{"dialerProxy":"fragment","tcpKeepAliveIdle":100,"mark":255,"tcpNoDelay":true}},"mux":{"enabled": true,"concurrency": 8,"xudpConcurrency": 8,"xudpProxyUDP443": "reject"}},{"tag":"fragment","protocol":"freedom","settings":{"domainStrategy":"AsIs","fragment":{"packets":"tlshello","length":"10-20","interval":"10-20"}},"streamSettings":{"sockopt":{"tcpNoDelay":true,"tcpKeepAliveIdle":100}}},{"tag":"direct","protocol":"freedom","settings":{}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}}}],"routing":{"domainStrategy":"AsIs","rules":[{"type":"field","inboundTag":["api"],"outboundTag":"api","enabled":true},{"id":"5627785659655799759","type":"field","port":"0-65535","outboundTag":"proxy","enabled":true}]}}
-
-
-همه اپراتورا
-
-کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/15/24, 12:26 PM]
-همه اپراتورا به جز همراه
-
-vless://wancloudfa@104.31.16.35:443?sni=wanfrtyuoitywancloud.wertycvnur.ir&mode=gun&security=tls&encryption=none&serviceName=&fp=chrome&alpn=http/1.1&type=grpc#@meli_proxyy
-
-vless://wancloudfa@162.159.134.234:443?sni=wanfrtyuoitywancloud.wertycvnur.ir&mode=gun&security=tls&encryption=none&serviceName=&fp=chrome&alpn=http/1.1&type=grpc#@meli_proxyy
-
-کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/15/24, 12:27 PM]
-همه اپراتورا به جز همراه
-vless://%56%50%4e%43%55%53%54%4f%4d%49%5a%45%2d%56%50%4e%43%55%53%54%4f%4d%49%5a%45@190.93.247.247:2087?path=%2Fws-%40%56%50%4e%43%55%53%54%4f%4d%49%5a%45%2d%40%56%50%4e%43%55%53%54%4f%4d%49%5a%45&security=tls&encryption=none&host=%76%70%6e%63%75%73%74%6f%6d%69%7a%652V2ray.xn--4oq36ed28d.org&type=ws&sni=%76%70%6e%63%75%73%74%6f%6d%69%7a%652V2ray.xn--4oq36ed28d.org#@meli_proxyy
-
-کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/15/24, 1:03 PM]
-{"log":{"access":"","error":"","loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"listen":"127.0.0.1","protocol":"socks","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}},{"tag":"http","port":10809,"listen":"127.0.0.1","protocol":"http","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"190.93.247.247","port":8443,"users":[{"id":"0af4bc1c-8a5c-413c-8a95-f34cf947850a","alterId":0,"email":"t@t.tt","security":"auto","encryption":"none","flow":""}]}]},"streamSettings":{"network":"ws","security":"tls","tlsSettings":{"allowInsecure":false,"serverName":"iR.i23.sTOre","alpn":["h2","http/1.1"],"fingerprint":"chrome","show":false},"wsSettings":{"path":"/","headers":{"Host":"iR.i23.sTOre"}},"sockopt":{"dialerProxy":"fragment","tcpKeepAliveIdle":100,"mark":255,"tcpNoDelay":true}},"mux":{"enabled": true,"concurrency": 8,"xudpConcurrency": 8,"xudpProxyUDP443": "reject"}},{"tag":"fragment","protocol":"freedom","settings":{"domainStrategy":"AsIs","fragment":{"packets":"tlshello","length":"10-20","interval":"10-20"}},"streamSettings":{"sockopt":{"tcpNoDelay":true,"tcpKeepAliveIdle":100}}},{"tag":"direct","protocol":"freedom","settings":{}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}}}],"routing":{"domainStrategy":"AsIs","rules":[{"type":"field","inboundTag":["api"],"outboundTag":"api","enabled":true},{"id":"5627785659655799759","type":"field","port":"0-65535","outboundTag":"proxy","enabled":true}]}}
+کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/16/24, 12:33 AM]
+{ "policy": { "system": { "statsOutboundUplink": true, "statsOutboundDownlink": true } }, "log": { "access": "", "error": "", "loglevel": "warning" }, "inbounds": [ { "tag": "socks", "port": 10808, "listen": "127.0.0.1", "protocol": "socks", "sniffing": { "enabled": true, "destOverride": [ "http", "tls" ], "routeOnly": false }, "settings": { "auth": "noauth", "udp": true, "allowTransparent": false } }, { "tag": "http", "port": 10809, "listen": "127.0.0.1", "protocol": "http", "sniffing": { "enabled": true, "destOverride": [ "http", "tls" ], "routeOnly": false }, "settings": { "auth": "noauth", "udp": true, "allowTransparent": false } }, { "tag": "api", "port": 9090, "listen": "127.0.0.1", "protocol": "dokodemo-door", "settings": { "udp": false, "address": "127.0.0.1", "allowTransparent": false } } ], "outbounds": [ { "tag": "proxy", "protocol": "vless", "settings": { "vnext": [ { "address": "discord.gg", "port": 443, "users": [ { "id": "5bdf790f-0af2-4481-a624-41b66e7e3489", "alterId": 0, "email": "t@t.tt", "security": "auto", "encryption": "none" } ] } ] }, "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "allowInsecure": false, "serverName": "cdn.ircp.online", "alpn": [ "h2", "http/1.1" ], "fingerprint": "firefox", "show": false }, "wsSettings": { "path": "/@ln2ray?ed=2048", "headers": { "Host": "cdn.ircp.online", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0" } }, "sockopt": { "dialerProxy": "fragment", "tcpKeepAliveIdle": 100, "mark": 255 } }, "mux": { "enabled": true, "concurrency": 8 } }, { "tag": "fragment", "protocol": "freedom", "settings": { "fragment": { "packets": "tlshello", "length": "9-20", "interval": "9-20" } }, "streamSettings": { "sockopt": { "TcpNoDelay": true, "tcpKeepAliveIdle": 100, "mark": 255 } } }, { "tag": "direct", "protocol": "freedom", "settings": {} }, { "tag": "block", "protocol": "blackhole", "settings": { "response": { "type": "http" } } } ], "stats": {}, "api": { "tag": "api", "services": [ "StatsService" ] }, "routing": { "domainStrategy": "AsIs", "rules": [ { "type": "field", "inboundTag": [ "api" ], "outboundTag": "api" }, { "type": "field", "outboundTag": "block", "domain": [ "geosite:category-ads-all" ] }, { "type": "field", "outboundTag": "direct", "domain": [ "geosite:cn" ] }, { "type": "field", "outboundTag": "direct", "ip": [ "geoip:private", "geoip:cn" ] } ] } }
 
 همراه اول
 
+کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/16/24, 1:13 AM]
+همه اپراتورا (بجز همراه اول)
 
-🚩🚩🪩🚩🚩 🆕 🆓 Config ✅ Applicable in:
+vless://48db7015-ee6e-40f8-9af9-3e7a2bda4d97@MTN.Vpn-Mikey.cfd:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=Germany.Vpn-Mikey.cfd#@meli_proxyy
 
-🔵 FoXray   🤍 V2rayNg
+vless://84fccc7b-f5c7-4aea-a5e5-4f84a76b3f50@MTN.Vpn-Mikey.cfd:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=Germany.Vpn-Mikey.cfd#@meli_proxyy
 
-⚫️ V2Box    🤍 NapsternetV
+کانال کانفیگ خرید سرور وی تو ری پروکسی وی پی ان فیلترشکن ترید سیسکو آیپی ثابت اندروید vpn v2rayng vless vmess l2tp cisco proxy, [2/16/24, 2:14 AM]
+{ "log": { "access": "", "error": "", "loglevel": "none" }, "inbounds": [ { "tag": "socks", "port": 10808, "listen": "127.0.0.1", "protocol": "socks", "sniffing": { "enabled": true, "destOverride": [ "http", "tls" ], "routeOnly": false }, "settings": { "auth": "noauth", "udp": true, "allowTransparent": false } }, { "tag": "http", "port": 10809, "listen": "127.0.0.1", "protocol": "http", "sniffing": { "enabled": true, "destOverride": [ "http", "tls" ], "routeOnly": false }, "settings": { "auth": "noauth", "udp": true, "allowTransparent": false } } ], "outbounds": [ { "tag": "proxy", "protocol": "vless", "settings": { "vnext": [ { "address": "a-free.httpcustom.site", "port": 8443, "users": [ { "id": "Free-HTTPCustom-2", "alterId": 0, "email": "Free-HTTPCustom", "security": "auto", "encryption": "none", "flow": "" } ] } ] }, "streamSettings": { "network": "grpc", "security": "tls", "tlsSettings": { "allowInsecure": false, "serverName": "d-FrEE.httpcuSTOm.SiTE", "alpn": [ "h3" ], "fingerprint": "chrome", "show": false }, "grpcSettings": { "multiMode": true, "serviceName": "?ed=2048" }, "sockopt": { "dialerProxy": "fragment", "tcpKeepAliveIdle": 100, "mark": 255, "tcpNoDelay": true } }, "mux": { "enabled": true, "concurrency": 8, "xudpConcurrency": 8, "xudpProxyUDP443": "reject" } }, { "tag": "fragment", "protocol": "freedom", "settings": { "domainStrategy": "AsIs", "fragment": { "packets": "tlshello", "length": "10-20", "interval": "0-0" } }, "streamSettings": { "sockopt": { "tcpNoDelay": true, "tcpKeepAliveIdle": 100 } } }, { "tag": "direct", "protocol": "freedom", "settings": {} }, { "tag": "block", "protocol": "blackhole", "settings": { "response": { "type": "http" } } } ], "routing": { "domainStrategy": "AsIs", "rules": [ { "type": "field", "inboundTag": [ "api" ], "outboundTag": "api", "enabled": true }, { "id": "5627785659655799759", "type": "field", "port": "0-65535", "outboundTag": "proxy", "enabled": true } ] } }
 
-🚰 در مصرف آب صرفه جویی کنیم. 
-🔄 جهت استفاده از کدهای جدید ؛ قبل از اتصال حتما نرم افزار رو آپدیت کنید .
+همه اپراتورا
 
+vless://58e9ad6c-43bb-4761-8770-1045c79cd3e6@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=liV2rayb.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&type=ws#Join+%40V2rayNGn+mci
 
-📌 با یک ضربه روی کانفیگ ها همگی کپی میشوند.
+vless://934b0140-6ada-430d-b6eb-dfc57fb74a7c@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayi.xn--mgbg0fka44dhgc.com#Join+%40V2rayNGn
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@free--join.outline-vpn.cloud:443?path=%2F%3Fed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#Irancell+280+%28%40Outline_Vpn%29
-
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#Irancell+281+%28%40Outline_Vpn%29
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+282+%28%40Outline_Vpn%29
-
-vless://f2c11cf6-d550-4a23-bec0-9a68dc9e6f2b@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=Iranop.javadv2.ir&type=ws#Irancell+283+%28%40Outline_Vpn%29
-
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#Irancell+284+%28%40Outline_Vpn%29
-
-vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tunn.free.hr&type=ws#Irancell+285+%28%40Outline_Vpn%29
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+286+%28%40Outline_Vpn%29
-
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=%2F%3Fed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#Irancell+287+%28%40Outline_Vpn%29
-
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@94.182.170.227:443?path=%2F%3Fed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#HamraheAval+ll+%28%40Outline_Vpn%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#HamraheAval+%28%40Outline_Vpn%29
-
-⚙️ بدون توجه به پینگ متصل شوید .
-
-💬  آموزش کامل اتصال به سرور ها
-
-🌐  کانال پروکسی تلگرام کلیک کنید 
-
-⭐️✨ جهت دریافت اشتراک اختصاصی VIP بدون قطعی کلیک کنید .
-
-🕯  عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
-
-🔵 @Outline_Vpn
-🔵 @Outline_Vpn_Qrcode
-
-🔠🔠🔠🔠🔠🔠🔠🔠🔠🔠
-
-⭐️ سرور اختصاصی تست شده با ایرانسل ❤️
-vless://0ae2e058-c144-4095-969a-9c3ce895c79b@joinsevernett.numalla.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=joinsevernett.numalla.top#%40ServerNett+%40ServerNett+1
-
-vless://d873f870-bc3a-4c85-9dbc-5fa1ee616ddd@join344.numalla.top:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=join344.numalla.top#%40ServerNett+%40ServerNett+2
-
-🆓 سرورها تا شب نامحدودن🔥
-@ServerNett ✅
+vless://934b0140-6ada-430d-b6eb-dfc57fb74a7c@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayj.xn--mgbg0fka44dhgc.com#Join+%40V2rayNG
