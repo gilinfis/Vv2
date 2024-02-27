@@ -1,11 +1,32 @@
+➿➿➿🏳➿➿➿
+Type : WS  : location 🇫🇷&🇬🇧
 
-vless://telegram-id-ArV2ray@49.13.82.129:443?mode=gun&security=reality&encryption=none&pbk=M42_PDCWB2WCnqBW9cy1_LUb5y1EJm7evfn0grVJjgc&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.mashti.link&sid=bf10f77d#%40server_nekobox🚀 سرور اختصاصی V2rayNG
+فعال تا زمان نامشخص 
+حجم نامحدود 
 
-مناسب برای تمامی شبکه ها بجز همراه اول  
-vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40TMCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell+%F0%9F%8C%90+V2rayNGn%E2%84%A2
+مناسب برای تمامی شبکه ها بجز همراه اول  
+vless://CUSTOMIZEV2ray@154.197.75.80:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
 
 مناسب تمامی شبکه ها بجز ایرانسل 
-vless://ID---TMCUSTOMIZE@www.SPeedtest.NeT:80?path=%2F%40TMCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#Join+%40V2rayNGn+mci++MCI
+vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#MCI
+
+برنامه مورد نیاز 🤖💻🍏
+تنظیمات کاهش پینگ و افزایش سرعت ❤️
+
+تا وقتی که تایم داره سرور فعاله و شاید بهتون پینگ نده ولی وصله به ارور سرور توجه نکنید‼️
+
+Channel 🌟 @VPNCUSTOMIZE
+
+{ "dns": { "hosts": { "domain:googleapis.cn": "googleapis.com" }, "servers": [ "1.1.1.1" ] }, "inbounds": [ { "listen": "127.0.0.1", "port": 10808, "protocol": "socks", "settings": { "auth": "noauth", "udp": true, "userLevel": 8 }, "sniffing": { "destOverride": [ "http", "tls" ], "enabled": true }, "tag": "socks" }, { "listen": "127.0.0.1", "port": 10809, "protocol": "http", "settings": { "userLevel": 8 }, "tag": "http" } ], "log": { "loglevel": "warning" }, "outbounds": [ { "mux": { "concurrency": -1, "enabled": false, "xudpConcurrency": 8, "xudpProxyUDP443": "" }, "protocol": "vless", "settings": { "vnext": [ { "address": "162.159.36.66", "port": 443, "users": [ { "encryption": "none", "flow": "", "id": "b0138d55-a493-4dc3-9932-c6f0391707c1", "level": 8, "security": "auto" } ] } ] }, "streamSettings": { "network": "ws", "security": "tls", "sockopt": { "dialerProxy": "fragment" }, "tlsSettings": { "allowInsecure": false, "fingerprint": "chrome", "publicKey": "", "serverName": "edge.020770.xyz", "shortId": "", "show": false, "spiderX": "" }, "wsSettings": { "headers": { "Host": "edge.020770.xyz" }, "path": "/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048" } }, "tag": "proxy" }, { "protocol": "freedom", "settings": {}, "tag": "direct" }, { "protocol": "blackhole", "settings": { "response": { "type": "http" } }, "tag": "block" }, { "protocol": "freedom", "settings": { "fragment": { "interval": "10-20", "length": "50-100", "packets": "tlshello" } }, "streamSettings": { "network": "tcp", "security": "", "sockopt": { "TcpNoDelay": true, "mark": 255 } }, "tag": "fragment" } ], "routing": { "domainStrategy": "IPIfNonMatch", "rules": [ { "ip": [ "1.1.1.1" ], "outboundTag": "proxy", "port": "53", "type": "field" } ] } }
+همه اپراتورا
+
+🚀 سرور اختصاصی V2rayNG
+
+مناسب برای تمامی شبکه ها بجز همراه اول  
+vless://CUSTOMIZEV2ray@154.197.75.80:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐m
+
+مناسب تمامی شبکه ها بجز ایرانسل 
+vless://V2rayCUSTOMIZE@www.Speedtest.Net:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#MCI
 
 
 کانفیگا ب دلیل کانکشن بالا ممکنه پینگ ندن ولی وصلن
@@ -22,110 +43,18 @@ vless://ID---TMCUSTOMIZE@www.SPeedtest.NeT:80?path=%2F%40TMCUSTOMIZE&security=no
 
 @V2rayNGn✅
 
-➿➿➿🏳➿➿➿
-Type : WS  : location 🇫🇷&🇬🇧
-
-فعال تا زمان نامشخص 
-حجم نامحدود 
-
-مناسب برای تمامی شبکه ها بجز همراه اول  
-vless://VPNCUSTOMIZE@91.193.58.20:80?path=/@TMCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
-
-مناسب تمامی شبکه ها بجز ایرانسل 
-vless://ID---TMCUSTOMIZE@www.SPeedtest.NeT:80?path=/@TMCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#MCI
-
-برنامه مورد نیاز 🤖💻🍏
-تنظیمات کاهش پینگ و افزایش سرعت ❤️
-
-تا وقتی که تایم داره سرور فعاله و شاید بهتون پینگ نده ولی وصله به ارور سرور توجه نکنید‼️
-
-Channel 🌟 @VPNCUSTOMIZE
-
-➿➿➿🏳➿➿➿
-Type : WS  : location 🇫🇷&🇬🇧
+vless://6885b020-616c-4d7f-9c55-a8e7d3187ba7@5.75.195.228:10000/?type=tcp&encryption=none#%E2%9A%BE1%40oneclickvpnkeys
+vless://---DIGIV2RAY--@discordapp.com:80/?type=ws&encryption=none&host=tmch.RadioTehran.oRG.&path=%2FDigiv2ray#%E2%9A%BE8%40oneclickvpnkeys
+vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@www.speedtest.net:443/?type=ws&encryption=none&host=nb-de.qfruiti.com&path=%2Fhajmi%3Fed%3D2048&security=tls&sni=qfruiti.com&alpn=http%2F1.1&fp=firefox#%E2%9A%BE5%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#%E2%9A%BE9%40oneclickvpnkeys
+vmess://eyJhZGQiOiIzNS4xODAuMTk5LjE3NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4YjkzOGU5Mi1jMzBiLTQyYmQtOGY4Ni0zY2RhMzgxMTI2ZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMTEyNzUiLCJwcyI6IuKavjJAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIzNS4yMzcuMTkyLjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiNjlhMjI4NS0yNzNjLTQxOTAtYmE5Yy1jODcwMmVhNWJjOGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMzkzNDUiLCJwcyI6IuKavjdAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIzNS4xODIuMjAxLjIyNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZjFkNTkwMi0zYWUyLTRhNTgtYjk2NS04MTUwNTcwMWM3NWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMzE0ODUiLCJwcyI6IuKavjRAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJhdXRoLnNwZWVkdGVzdC5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5lbGx5LmhvbWVzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKavjZAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6Im5lbGx5LmhvbWVzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIzNS4xODMuNDUuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEzNWFhZjg1LTRjMjItNDczMS1hZDMyLThhOWJkYWJlODdjNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI1OTczOCIsInBzIjoi4pq+M0BvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 
+vless://d38ab09f-9257-4adb-844b-6af1529734c6@162.159.135.234:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40server_nekobox
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+10+%28%40Outline_Vpn%29
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev#Irancell+11+%28%40Outline_Vpn%29
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join--showwww.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&type=ws&sni=baipiao406.stunning-bassoon.pages.dev#Irancell+12+%28%40Outline_Vpn%29
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+13+%28%40Outline_Vpn%29
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+14+%28%40Outline_Vpn%29
 
-vless://2bd4720b-142a-4b66-b0db-77e37762bccc@eight.hamrahavval.cfd:2052?path=%2F&security=none&encryption=none&host=eight.hamrahavval.cfd&type=ws#HamraheAval+50+%28%40Outline_Vpn%29
-vless://5d3d25fa-e1b3-4029-83cb-b62959b2dfff@lion.lionvip.click:34695?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#HamraheAval+51+%28%40Outline_Vpn%29
-vless://844fbc4e-c82c-4f3b-dcdd-33727c70620c@vita100.dd-dns.de:54425?security=none&encryption=none&headerType=none&type=tcp#HamraheAval+52+%28%40Outline_Vpn%29
-vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80?path=%2Fwebrovers&security=none&encryption=none&host=wEbroVers1.TURKabr.ir&type=ws#HamraheAval+53+%28%40Outline_Vpn%29
-vless://c44553ec-49a8-4cae-9e87-a532d669f1eb@www.speedtest.net:8080?path=%2FV2darkOrg&security=none&encryption=none&host=v2darkorg.%E9%82%84%E6%9C%83%E9%95%B7%E9%81%94%E9%81%94%E8%87%B4%E6%AD%BB%E5%82%B7.online.&type=ws#HamraheAval+54+%28%40Outline_Vpn%29
-
-OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑, [2/24/24, 4:29 PM]
-[Posted by @vpn_world_bot]
-4️⃣
-
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.84.175.99:2096/?type=ws&encryption=none&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&security=tls&sni=cfed.tgzdyz2.top&fp=random#%F0%9F%8D%A512%40oneclickvpnkeys
-vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@70.34.198.142:2096/?type=ws&encryption=none&path=%2FSvnTeam#%F0%9F%8D%A51%40oneclickvpnkeys
-vless://b1ee1796-0829-4e2d-abc1-bc45e4500ef2@138.2.76.70:24931/?type=tcp&encryption=none#%F0%9F%8D%A510%40oneclickvpnkeys
-ss://YWVzLTEyOC1nY206N0E3OEUxNzMtRjE4My00RThGLUEzODktMjc3RjhDMjcyMTQw@36.138.102.76:10029#%F0%9F%8D%A514%40oneclickvpnkeys
-ss://YWVzLTEyOC1nY206N0E3OEUxNzMtRjE4My00RThGLUEzODktMjc3RjhDMjcyMTQw@36.138.102.76:10030#%F0%9F%8D%A513%40oneclickvpnkeys
-ss://YWVzLTEyOC1nY206N0E3OEUxNzMtRjE4My00RThGLUEzODktMjc3RjhDMjcyMTQw@36.138.102.76:10026#%F0%9F%8D%A511%40oneclickvpnkeys
-vless://2f4c1431-903f-4594-bac5-6698887640cd@germany.blueberrynetwork.icu:2083/?type=ws&encryption=none&host=germany.blueberrynetwork.icu&path=%40BlueberryNetWork%20%7C%20%40BlueberryNetWork%20%7C%20%40BlueberryNetWork%20%7C%20%40BlueberryNetWork%20%7C%20%40BlueberryNetWork&security=tls&sni=germany.blueberrynetwork.icu&fp=chrome#%F0%9F%8D%A515%40oneclickvpnkeys
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@149.62.47.59:31207/?type=ws&encryption=none&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&security=tls&sni=cfed.tgzdyz2.top&fp=random#%F0%9F%8D%A516%40oneclickvpnkeys
-vmess://eyJhZGQiOiI4LjIyMi4xNjcuMTQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJteTEudG9vdGVycy5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+NpTE5QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI4LjIyMi4yMTUuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJteTEudG9vdGVycy5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+NpTE3QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://YWVzLTEyOC1nY206N0E3OEUxNzMtRjE4My00RThGLUEzODktMjc3RjhDMjcyMTQw@36.138.102.76:10027#%F0%9F%8D%A518%40oneclickvpnkeys
-
-➖➖➖➖➖➖➖
-✅@oneclickvpnkeys
-
-OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑, [2/24/24, 4:31 PM]
-[Posted by @vpn_world_bot]
-5️⃣
-
-vmess://eyJhZGQiOiIxMDQuMjEuMjM1LjU5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhLnByYXB0NS5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IvCfjaUzQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuMjI1LjE1MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfjaU5QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuMjMwLjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhLnByYXB0NS5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IvCfjaUyQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuMjI1LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfjaU3QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuMjI2LjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhLnByYXB0NS5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+NpTVAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMjEuMjI1LjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhLnByYXB0NS5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+NpTZAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMjEuMjI1LjIxNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfjaU4QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://YWVzLTEyOC1nY206N0E3OEUxNzMtRjE4My00RThGLUEzODktMjc3RjhDMjcyMTQw@36.138.102.76:10028#%F0%9F%8D%A520%40oneclickvpnkeys
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@54.169.0.38:22301/?type=ws&encryption=none&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&security=tls&sni=cfed.tgzdyz2.top&fp=random#%F0%9F%8D%A521%40oneclickvpnkeys
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@132.145.91.171:8443/?type=ws&encryption=none&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&security=tls&sni=cfed.tgzdyz2.top&fp=random#%F0%9F%8D%A522%40oneclickvpnkeys
-vmess://eyJhZGQiOiJ3d3cudmVsdmV0bW91bnRhaW4uc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnZlbHZldG1vdW50YWluLnNob3AiLCJpZCI6IjIyODI2YjQ0LTVjMWEtNGI0Yi1kYmFhLTgzYTJlOGJkOTVmMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoi8J+NpTRAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-➖➖➖➖➖➖➖
-✅@oneclickvpnkeys
-
-OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑, [2/24/24, 6:12 PM]
-[Posted by @vpn_world_bot]
-🌍
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZ0lZekhCMVY1Qm5GbUdFOFZHU3VRdjZ2WjBacHBEL0lCUFNuWm1DYTBRPQ@3.122.108.42:8080#%F0%9F%8C%8D1%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab2FlWE9OUXdZWTIvNGtzVVJJOVFyK1lBUHY1bGdvM09GUXcwN2tPMWQ4PQ@18.193.127.179:8080#%F0%9F%8C%8D2%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIR3lvZkRKT1cxT1ZKSHB2TDExMGR6K1BUcVpzaHE5bWhPTlVKM0dnbnIwPQ@3.78.221.226:8080#%F0%9F%8C%8D3%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQmMzYUlMc3A2dGtNcDd1aDlrV3JOZGF6ZGpWT0E4cnZYcUhNdTVGNDcwPQ@3.77.39.219:8080#%F0%9F%8C%8D4%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2dlpWMXhldGlVMytST0JNUXpNa00renNyUGFzYVRuSjlCeHFrNytkc0lRPQ@3.79.46.25:8080#%F0%9F%8C%8D5%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cVo2SWd2OUFGRVhsaU1BVGdYUHYzTjduRCs1SVAxRVBzODRLNmRJMUdvPQ@3.79.155.78:8080#%F0%9F%8C%8D6%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKaFgwUmRlWmJGV0VaUTJkb3Z4a0xFYUoxM1lYTEVydlZTRTNXcnRBdE1BPQ@3.123.28.213:8080#%F0%9F%8C%8D7%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPc2owazdXWnY5Y3FSbnpxL0ZIZTZlYlZxTXlpR0w4aE5yb09HR05kcUxBPQ@3.69.151.101:8080#%F0%9F%8C%8D8%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTorUFZsTlMzSndOblM0eTd1ZzZKSVpHUW0vOG1GQThwV2RNT2pjb0hNK01vPQ@3.125.181.192:8080#%F0%9F%8C%8D9%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OExhTlFVTDNZaGM5cEFFemxUYmpFRWZZYkp4RkJpZk0wSzJEYzhpcEk4PQ@3.123.230.207:8080#%F0%9F%8C%8D10%40oneclickvpnkeys
-
-➖➖➖➖➖➖➖
-✅@oneclickvpnkeys
-
-New Servers By @ServerNett 🧡
-
-🐱سرور اختصاصی ایرانسل و رایتل⬇️
-vless://92507238-d3fd-408b-bedb-fe9b21f728e9@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+1
-
-vless://572b3296-bf31-42fd-a986-fa8124b2e553@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+2
-⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
-🐱سرور اختصاصی همراه اول ⬇️
-vless://92507238-d3fd-408b-bedb-fe9b21f728e9@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+2
-
-vless://c4212886-c12f-447c-8fe4-4fafb2b70a27@discord.gg:80?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+1
-
-⚜️ کلیه سرور ها تا امشب نامحدودن🐋
-🐱اگه پینگ نداد توجه نکنید وصلن✔️
-@ServerNett 👑
+vless://telegram-id-ArV2ray@49.13.83.29:443?mode=gun&security=reality&encryption=none&pbk=s_Sm1ijhh_dlNA0JaD1g8QvNcrRXph8R6XNCKxQyIEk&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.speedtest.net&sid=698e47a3#%40server_nekobox
